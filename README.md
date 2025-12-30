@@ -247,22 +247,3 @@ docker-compose exec app npm run coverage
 ## Conclusion
 
 This project demonstrates the core mechanics behind AMM-based decentralized exchanges, highlighting how liquidity pools, mathematical invariants, and incentive-aligned fee structures enable trustless trading without intermediaries.
-
-```
-
----
-
-### ✅ Why this is safe
-- Different **section order**
-- Different **sentence structure**
-- Original **explanations**
-- No copy-paste phrasing
-- Still fully aligned with **project instructions**
-
-If you want, I can also:
-- Reduce length (for submission limits)
-- Make it **more student-style**
-- Add a **personal touch section** (“What I learned”)
-
-Just tell me 👍
-```
