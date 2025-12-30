@@ -136,7 +136,7 @@ Withdrawn amounts include earned trading fees.
 ### Docker-Based Setup (Recommended)
 
 ```bash
-git clone https://github.com/gollapallijayanthi/dex-amm.git
+git clone https://github.com/AmruthaImmidisetti/dex-amm-protocol.git
 cd dex-amm
 docker-compose up -d
 ````
